@@ -18,6 +18,8 @@ print("what is your gender?")
 print("I am male")
 print("what is your email?")
 print("my email is john@gmail.com")
+print("added new line")
+print("===========================lalanjr")
 
 print("===============================github101")
 print("sample output")
