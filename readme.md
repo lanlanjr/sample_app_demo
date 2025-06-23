@@ -7,6 +7,7 @@ This is a sample application demonstrating basic features and setup.
 - Simple project structure
 - Easy to understand codebase
 - Example usage instructions
+- added feature by lalanjr
 
 ## Getting Started
 
