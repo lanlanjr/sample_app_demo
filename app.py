@@ -21,3 +21,4 @@ print("my email is john@gmail.com")
 
 print("===============================github101")
 print("sample output")
+print("allow")
