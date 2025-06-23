@@ -8,6 +8,7 @@ This is a sample application demonstrating basic features and setup.
 - Easy to understand codebase
 - Example usage instructions
 - added feature by lalanjr
+- added in develop branch
 
 ## Getting Started
 
